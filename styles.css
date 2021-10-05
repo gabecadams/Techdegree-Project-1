@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('/Users/gabrieladams/Desktop/Coding Projects/Techdegree-Project-1/images/Portland_new.jpg') no-repeat top center ;
+  background: url('./images/Portland_new.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
